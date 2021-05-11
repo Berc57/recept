@@ -1,7 +1,31 @@
 body{
     background-image: url("images/chef.jpg");
     position:fixed;
+                }               
+.eslo{
+                    size: 800px;
+                    border-top: 5px white dotted;
                 }
-                .eslo{
-                    size: 80px;
-                }
+.masodik{
+font-size:x-large;
+
+}
+.tiramisu{
+    border-bottom: white 5px dotted;
+    color: white;
+    text-align: center;
+}
+.hozzavalok{
+    color: white;
+    border: double 4px white;
+    width: 130px;
+}
+.szam{
+    color: white;
+}
+.link{
+    color: white;
+}
+.finom{
+    text-align: center;
+}
